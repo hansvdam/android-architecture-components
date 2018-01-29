@@ -53,7 +53,7 @@ public class RepoFragment extends Fragment implements LifecycleRegistryOwner, In
     private static final String REPO_NAME_KEY = "repo_name";
 
     private final LifecycleRegistry lifecycleRegistry = new LifecycleRegistry(this);
-
+// just test
     @Inject
     ViewModelProvider.Factory viewModelFactory;
 
